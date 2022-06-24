@@ -1,0 +1,15 @@
+D:\C#\T2108M 1\TienDien\TienDien\bin\Debug\net6.0\TienDien.exe
+D:\C#\T2108M 1\TienDien\TienDien\bin\Debug\net6.0\TienDien.deps.json
+D:\C#\T2108M 1\TienDien\TienDien\bin\Debug\net6.0\TienDien.runtimeconfig.json
+D:\C#\T2108M 1\TienDien\TienDien\bin\Debug\net6.0\TienDien.dll
+D:\C#\T2108M 1\TienDien\TienDien\bin\Debug\net6.0\TienDien.pdb
+D:\C#\T2108M 1\TienDien\TienDien\obj\Debug\net6.0\TienDien.csproj.AssemblyReference.cache
+D:\C#\T2108M 1\TienDien\TienDien\obj\Debug\net6.0\TienDien.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\T2108M 1\TienDien\TienDien\obj\Debug\net6.0\TienDien.AssemblyInfoInputs.cache
+D:\C#\T2108M 1\TienDien\TienDien\obj\Debug\net6.0\TienDien.AssemblyInfo.cs
+D:\C#\T2108M 1\TienDien\TienDien\obj\Debug\net6.0\TienDien.csproj.CoreCompileInputs.cache
+D:\C#\T2108M 1\TienDien\TienDien\obj\Debug\net6.0\TienDien.dll
+D:\C#\T2108M 1\TienDien\TienDien\obj\Debug\net6.0\refint\TienDien.dll
+D:\C#\T2108M 1\TienDien\TienDien\obj\Debug\net6.0\TienDien.pdb
+D:\C#\T2108M 1\TienDien\TienDien\obj\Debug\net6.0\TienDien.genruntimeconfig.cache
+D:\C#\T2108M 1\TienDien\TienDien\obj\Debug\net6.0\ref\TienDien.dll
